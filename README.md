@@ -6,7 +6,7 @@ This is a sample readme file for our Github Example repo. We're learning markdow
 * Markdown is really fast
 * preety good
 
-## Link Example
+
 [Codetime](https://www.huiyeux.com)
 
 1. ITEM 1
